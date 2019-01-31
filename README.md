@@ -16,6 +16,6 @@ Bayesian  Optimization paper reading list
   * Poloczek, Matthias， Wang, Jialei， Frazier, Peter I.  
 ### Via Meta-learning
 * Using meta-learning to initialize bayesian optimization of hyperparameters [【pdf】](http://ceur-ws.org/Vol-1201/paper-03.pdf)
-  * Matthias Feurer,Jost Tobias Springenberg ,Frank Hutter. AAAI'15
+  * Matthias Feurer,Jost Tobias Springenberg ,Frank Hutter. *AAAI'15*
 * 
 
