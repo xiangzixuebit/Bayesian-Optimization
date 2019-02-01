@@ -14,7 +14,7 @@ Bayesian  Optimization paper reading list
 ### Warm Start
 * Warm Starting Bayesian Optimization [【pdf】](http://ceur-ws.org/Vol-1201/paper-03.pdf)
   * Poloczek, Matthias， Wang, Jialei， Frazier, Peter I.  
-### Via Meta-learning
+### Meta-learning
 * Using meta-learning to initialize bayesian optimization of hyperparameters [【pdf】](http://ceur-ws.org/Vol-1201/paper-03.pdf)
   * Matthias Feurer,Jost Tobias Springenberg ,Frank Hutter. *AAAI'15*
 * 
