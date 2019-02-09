@@ -12,7 +12,7 @@ Bayesian  Optimization paper reading list
   
 ### particular knowledge of BO
 * practical-bayesian-optimization(GP) [【pdf】](https://papers.nips.cc/paper/4522-practical-bayesian-optimization-of-machine-learning-algorithms.pdf)
-  * Jasper Snoek, Hugo Larochel, Ryan P. Adams. *(2012)*
+  * Jasper Snoek, Hugo Larochel, Ryan P. Adams. *2012*
 * Theoretical Analysis of Bayesian Optimisation with Unknown GaussianProcess Hyper-Parameters [【pdf】](https://arxiv.org/pdf/1406.7758.pdf)
   * ZiyuWang, NandodeFreitas.
 * Batched Large-scale Bayesian Optimization in High-dimensional Spaces(EBO) [【pdf】](https://arxiv.org/pdf/1706.01445.pdf)
@@ -64,7 +64,7 @@ Bayesian  Optimization paper reading list
 * Learning to Warm-Start Bayesian Hyperparameter Optimization [【pdf】](https://arxiv.org/pdf/1710.06219.pdf) 
   * Jungtaek Kim, Saehoon Kim, and Seungjin Choi. *(2017)*
 *  Multiple adaptive Bayesian linear regression for scalable Bayesian optimization with warm start [【pdf】](https://arxiv.org/pdf/1712.02902.pdf)
-  * Perrone, V., Jenatton, R., Seeger, M., Archambeau. *(2017)*
+  * Perrone, V., Jenatton, R., Seeger, M., Archambeau. *2017*
 * Eﬃcient and robust automated machine learning [【pdf】](http://papers.nips.cc/paper/5872-efficient-and-robust-automated-machine-learning.pdf)
-  * Feurer, M., Klein, A., Eggensperger, K., Springenberg, J., Blum, M., Hutter, F. *(2015)*
+  * Feurer, M., Klein, A., Eggensperger, K., Springenberg, J., Blum, M., Hutter, F. *2015*
 
