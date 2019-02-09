@@ -62,8 +62,8 @@ Bayesian  Optimization paper reading list
 * Warm Starting Bayesian Optimization [【pdf】](http://ceur-ws.org/Vol-1201/paper-03.pdf)
   * Poloczek, Matthias， Wang, Jialei， Frazier, Peter I.  
 * Learning to Warm-Start Bayesian Hyperparameter Optimization [【pdf】](https://arxiv.org/pdf/1710.06219.pdf) 
-  * Jungtaek Kim, Saehoon Kim, and Seungjin Choi. *(2017)*
-*  Multiple adaptive Bayesian linear regression for scalable Bayesian optimization with warm start [【pdf】](https://arxiv.org/pdf/1712.02902.pdf)
+  * Jungtaek Kim, Saehoon Kim, and Seungjin Choi. *2017*
+* Multiple adaptive Bayesian linear regression for scalable Bayesian optimization with warm start [【pdf】](https://arxiv.org/pdf/1712.02902.pdf)
   * Perrone, V., Jenatton, R., Seeger, M., Archambeau. *2017*
 * Eﬃcient and robust automated machine learning [【pdf】](http://papers.nips.cc/paper/5872-efficient-and-robust-automated-machine-learning.pdf)
   * Feurer, M., Klein, A., Eggensperger, K., Springenberg, J., Blum, M., Hutter, F. *2015*
