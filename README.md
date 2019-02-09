@@ -1,3 +1,4 @@
+
 # Bayesian-Optimization
 Bayesian  Optimization paper reading list
 ## Relevant paper
@@ -11,7 +12,7 @@ Bayesian  Optimization paper reading list
   
 ### particular knowledge of BO
 * practical-bayesian-optimization(GP) [【pdf】](https://papers.nips.cc/paper/4522-practical-bayesian-optimization-of-machine-learning-algorithms.pdf)
-  * Jasper Snoek, Hugo Larochel, Ryan P. Adams.
+  * Jasper Snoek, Hugo Larochel, Ryan P. Adams. *(2012)*
 * Theoretical Analysis of Bayesian Optimisation with Unknown GaussianProcess Hyper-Parameters [【pdf】](https://arxiv.org/pdf/1406.7758.pdf)
   * ZiyuWang, NandodeFreitas.
 * Batched Large-scale Bayesian Optimization in High-dimensional Spaces(EBO) [【pdf】](https://arxiv.org/pdf/1706.01445.pdf)
@@ -46,8 +47,10 @@ Bayesian  Optimization paper reading list
   * Chris Thornton, Frank Hutter, Holger H. Hoos, Kevin Leyton-Brown.
  
 ### Meta-learning
+* Towards reproducible empirical research in meta-learning[【pdf】](https://arxiv.org/pdf/1808.10406.pdf)
+  * Rivolli, A., Garcia, L., Soares, C., Vanschoren, J., de Carvalh. *(2018)*
 * Using meta-learning to initialize bayesian optimization of hyperparameters [【pdf】](http://ceur-ws.org/Vol-1201/paper-03.pdf)
-  * Matthias Feurer,Jost Tobias Springenberg ,Frank Hutter. *AAAI'15*
+  * Matthias Feurer,Jost Tobias Springenberg ,Frank Hutter. *AAAI'15(2015)*
 * Combining meta-learning and search techniques to select parameters for support vector machines [【pdf】](https://www.fep.up.pt/docentes/fontes/FCTEGE2008/Publicacoes/P3.pdf)
   * Taciana A.F. Gomes, Ricardo B.C. Prudencio, Carlos Soares, Andre L.D. Rossi , Andre Carvalho. 
 * Learning hyperparameter optimization initializations [【pdf】](http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=B8F00E451266E844DAFB8A04DC572599?doi=10.1.1.718.1247&rep=rep1&type=pdf)
@@ -59,5 +62,9 @@ Bayesian  Optimization paper reading list
 * Warm Starting Bayesian Optimization [【pdf】](http://ceur-ws.org/Vol-1201/paper-03.pdf)
   * Poloczek, Matthias， Wang, Jialei， Frazier, Peter I.  
 * Learning to Warm-Start Bayesian Hyperparameter Optimization [【pdf】](https://arxiv.org/pdf/1710.06219.pdf) 
-  * Jungtaek Kim, Saehoon Kim, and Seungjin Choi.
+  * Jungtaek Kim, Saehoon Kim, and Seungjin Choi. *(2017)*
+*  Multiple adaptive Bayesian linear regression for scalable Bayesian optimization with warm start [【pdf】](https://arxiv.org/pdf/1712.02902.pdf)
+  * Perrone, V., Jenatton, R., Seeger, M., Archambeau. *(2017)*
+* Eﬃcient and robust automated machine learning [【pdf】](http://papers.nips.cc/paper/5872-efficient-and-robust-automated-machine-learning.pdf)
+  * Feurer, M., Klein, A., Eggensperger, K., Springenberg, J., Blum, M., Hutter, F. *(2015)*
 
