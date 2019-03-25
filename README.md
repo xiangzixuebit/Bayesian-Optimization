@@ -18,7 +18,7 @@ Bayesian  Optimization paper reading list
 * Batched Large-scale Bayesian Optimization in High-dimensional Spaces(EBO) [【pdf】](https://arxiv.org/pdf/1706.01445.pdf)
   * ZiWang, ClementGehring, PushmeetKohli, StefanieJegelka.
 * Bayesian optimization with robust Bayesian neural networks(CNN) [【pdf】](http://papers.nips.cc/paper/6117-bayesian-optimization-with-robust-bayesian-neural-networks.pdf)
-  * Jost Tobias Springenberg, AaronKlein, StefanFalkner, FrankHutter.
+  * Jost Tobias Springenberg, AaronKlein, StefanFalkner, FrankHutter.  *NIPS(2016)*
 * Stable Bayesian optimization [【pdf】](https://www.researchgate.net/publication/324361830_Stable_Bayesian_optimization)
   * Thanh Dai Nguyen, Sunil Gupta, Santu Rana, Svetha Venkatesh.
 * Multi-task Bayesian optimization [【pdf】](http://papers.nips.cc/paper/5086-multi-task-bayesian-optimization.pdf)
