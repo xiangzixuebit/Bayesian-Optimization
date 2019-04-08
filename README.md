@@ -57,7 +57,9 @@ Bayesian  Optimization paper reading list
   * Martin Wistuba, Nicolas Schilling, Lars Schmidt-Thieme. 
 * Regret bounds for meta Bayesian optimization with an unknown Gaussian process prior [【pdf】](https://ziw.mit.edu/pub/meta_bo/main.pdf)
   * ZiWang, BeomjoonKim, LesliePackKaelbling.
-  
+* Meta-Learning Acquisition Functions for Bayesian Optimization [【pdf】](https://arxiv.org/abs/1904.02642v1)
+  * Michael Volpp, Lukas Fröhlich, Andreas Doerr, Frank Hutter, Christian Daniel. *(2019)*
+
 ### Warm Start
 * Warm Starting Bayesian Optimization [【pdf】](http://ceur-ws.org/Vol-1201/paper-03.pdf)
   * Poloczek, Matthias， Wang, Jialei， Frazier, Peter I.  
