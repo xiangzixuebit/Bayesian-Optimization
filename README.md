@@ -45,6 +45,8 @@ Bayesian  Optimization paper reading list
   * Tobias Hinz, Nicolas Navarro-Guerrero, Sven Magg, Stefan Wermter.
 * Auto-WEKA: Combined Selection and Hyperparameter Optimization of Classification Algorithms [【pdf】](https://arxiv.org/abs/1208.3719)
   * Chris Thornton, Frank Hutter, Holger H. Hoos, Kevin Leyton-Brown.
+* Stochastic Hyperparameter Optimization through Hypernetworks [【pdf】](https://arxiv.org/pdf/1802.09419.pdf)
+  * Jonathan Lorraine, David Duvenaud.
  
 ### Meta-learning
 * Towards reproducible empirical research in meta-learning[【pdf】](https://arxiv.org/pdf/1808.10406.pdf)
@@ -59,6 +61,12 @@ Bayesian  Optimization paper reading list
   * ZiWang, BeomjoonKim, LesliePackKaelbling.
 * Meta-Learning Acquisition Functions for Bayesian Optimization [【pdf】](https://arxiv.org/abs/1904.02642v1)
   * Michael Volpp, Lukas Fröhlich, Andreas Doerr, Frank Hutter, Christian Daniel. *(2019)*
+* A bridge between hyperparameter optimization and learning-to-learn [【pdf】](http://metalearning.ml/2017/papers/metalearn17_franceschi.pdf) 
+  * Luca Franceschi, Paolo Frasconi, Michele Donini, Massimiliano Pontil.
+* A Simple Neural Attentive Meta-Learner [【pdf】](https://arxiv.org/pdf/1707.03141.pdf)
+  * Nikhil Mishra, Mostafa Rohaninejad, Xi Chen, Pieter Abbeel
+* Bayesian model ensembling using meta-trained recurrent neural networks [【pdf】](http://metalearning.ml/2017/papers/metalearn17_ambrogioni.pdf)
+  * Luca Ambrogioni, Julia Berezutskaya, Umut Güçlü, Eva W. P. van den Borne, Yagmur Güçlütürk, Marcel A. J. van Gerven
 
 ### Warm Start
 * Warm Starting Bayesian Optimization [【pdf】](http://ceur-ws.org/Vol-1201/paper-03.pdf)
