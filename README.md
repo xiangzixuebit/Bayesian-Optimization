@@ -29,7 +29,13 @@ Bayesian  Optimization paper reading list
 * No-regret Bayesian Optimization with Unknown Hyperparameters (preprint)
   [【pdf】](https://www.researchgate.net/publication/330357738_No-regret_Bayesian_Optimization_with_Unknown_Hyperparameters)
   * Felix Berkenkamp, Angela P. Schoellig, Andreas Krause.
-
+* Knowing The What But Not The Where in Bayesian Optimization [【pdf】](https://arxiv.org/abs/1905.02685)
+  * Vu Nguyen, Michael A Osborne.*(2019)*
+* Deep Neural Architecture Search with Deep Graph Bayesian Optimization [【pdf】](https://arxiv.org/abs/1905.06159)
+  * Lizheng Ma, Jiaxu Cui, Bo Yang.*(2019)*
+* Bayesian Optimization using Deep Gaussian Processes [【pdf】](https://arxiv.org/abs/1905.03350)
+  * Ali Hebbal, Loic Brevault, Mathieu Balesdent, El-Ghazali Talbi, Nouredine Melab.*(2019)*
+  
 ### Hyperparameter Optimization
 * Learning Hyperparameter Optimization Initializations [【pdf】](https://ieeexplore.ieee.org/document/7344817)
   * Martin Wistuba，Nicolas Schilling，Lars Schmidt-Thieme. 
@@ -37,6 +43,7 @@ Bayesian  Optimization paper reading list
   * James S. Bergstra, Rémi Bardenet, Yoshua Bengio, Balázs Kégl.*NIPS2011*
 * An efficient approach for assessing hyperparameter importance [【pdf】](https://www.researchgate.net/publication/287850221_An_efficient_approach_for_assessing_hyperparameter_importance)
   * FrankHutter , HolgerHoos, KevinLeyton-Brown.
+
 * Hyperparameter Search Space Pruning - A New Component for Sequential Model-Based Hyperparameter Optimization [【pdf】](https://ipvs.informatik.uni-stuttgart.de/mlr/spp-wordpress/wp-content/uploads/wistuba-ecml-2015.pdf)
   * Martin Wistuba, Nicolas Schilling, Lars Schmidt-Thieme.
 * BOHB: Robust and Efficient Hyperparameter Optimization at Scale [【pdf】](https://arxiv.org/pdf/1807.01774.pdf)
