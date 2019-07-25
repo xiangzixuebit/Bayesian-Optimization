@@ -132,7 +132,7 @@ Bayesian  Optimization paper reading list
 ### MCMC&VI
 * Stein Point Markov Chain Monte Carlo [【pdf】](http://proceedings.mlr.press/v97/chen19b/chen19b.pdf)
   * Wilson Ye Chen, Alessandro Barp, Francois-Xavier Briol, Jackson Gorham, Mark Girolami, Lester Mackey, Chris Oates.*ICML(2019)* 
-* * Unifying Orthogonal Monte Carlo Methods [【pdf】](http://proceedings.mlr.press/v97/choromanski19a/choromanski19a.pdf)
+* Unifying Orthogonal Monte Carlo Methods [【pdf】](http://proceedings.mlr.press/v97/choromanski19a/choromanski19a.pdf)
   * Krzysztof Choromanski, Mark Rowland, Wenyu Chen, Adrian Weller.*ICML(2019)* 
 * Scalable Metropolis–Hastings for Exact Bayesian Inference with Large Datasets [【pdf】](http://proceedings.mlr.press/v97/cornish19a/cornish19a.pdf)
   * Rob Cornish, Paul Vanetti, Alexandre Bouchard-Cote, George Deligiannidis, Arnaud Doucet.*ICML(2019)* 
